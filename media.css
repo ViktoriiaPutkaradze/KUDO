@@ -1,0 +1,58 @@
+@media (min-width: 1200px){
+
+    .header-line{
+        max-width: 90%;
+    }
+
+    .nav{
+        min-width: none;
+    }
+
+    .header-logo{
+        margin: 20px;
+    }
+
+    .nav-item{
+        margin: 8px 0px;
+    }
+
+}
+
+
+
+
+
+@media (min-width: 992px){
+
+
+}
+
+
+
+
+
+
+@media (min-width: 768px){
+
+
+}
+
+
+
+
+
+@media (min-width: 480px){
+
+
+}
+
+
+
+
+
+
+@media (min-width: 320px){
+
+
+}
+
